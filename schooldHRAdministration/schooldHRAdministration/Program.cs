@@ -16,11 +16,12 @@ namespace schooldHRAdministration
 
             SeedData(employees);
 
-            foreach(IEmployee employee in employees)
-            {
-                totalSalaries += employee.Salary;
-            }
-            Console.WriteLine($"Total Salaries (including bonus):{totalSalaries}");
+            //foreach(IEmployee employee in employees)
+            //{
+            //    totalSalaries += employee.Salary;
+            //}
+            //Console.WriteLine($"Total Salaries (including bonus):{totalSalaries}");
+            Console.WriteLine($"Total salaries including bonus:{employees.Sum(e => e.Salary)}");
             Console.ReadKey();
         }
         public static void SeedData(List<IEmployee> employees)
