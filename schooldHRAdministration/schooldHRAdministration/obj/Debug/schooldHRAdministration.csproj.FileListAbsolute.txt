@@ -1,0 +1,10 @@
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\schooldHRAdministration\schooldHRAdministration\bin\Debug\schooldHRAdministration.exe.config
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\schooldHRAdministration\schooldHRAdministration\bin\Debug\schooldHRAdministration.exe
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\schooldHRAdministration\schooldHRAdministration\bin\Debug\schooldHRAdministration.pdb
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\schooldHRAdministration\schooldHRAdministration\bin\Debug\HRAdministrationAPI.dll
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\schooldHRAdministration\schooldHRAdministration\bin\Debug\HRAdministrationAPI.pdb
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\schooldHRAdministration\schooldHRAdministration\obj\Debug\schooldHRAdministration.csproj.AssemblyReference.cache
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\schooldHRAdministration\schooldHRAdministration\obj\Debug\schooldHRAdministration.csproj.CoreCompileInputs.cache
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\schooldHRAdministration\schooldHRAdministration\obj\Debug\schooldHRAdministration.csproj.CopyComplete
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\schooldHRAdministration\schooldHRAdministration\obj\Debug\schooldHRAdministration.exe
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\schooldHRAdministration\schooldHRAdministration\obj\Debug\schooldHRAdministration.pdb

@@ -1,0 +1,6 @@
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\schooldHRAdministration\HRAdministrationAPI\HRAdministrationAPI\bin\Debug\HRAdministrationAPI.dll
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\schooldHRAdministration\HRAdministrationAPI\HRAdministrationAPI\bin\Debug\HRAdministrationAPI.pdb
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\schooldHRAdministration\HRAdministrationAPI\HRAdministrationAPI\obj\Debug\HRAdministrationAPI.csproj.AssemblyReference.cache
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\schooldHRAdministration\HRAdministrationAPI\HRAdministrationAPI\obj\Debug\HRAdministrationAPI.csproj.CoreCompileInputs.cache
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\schooldHRAdministration\HRAdministrationAPI\HRAdministrationAPI\obj\Debug\HRAdministrationAPI.dll
+C:\Users\VJ\OneDrive\Desktop\Developer\school-HR-Administration\schooldHRAdministration\HRAdministrationAPI\HRAdministrationAPI\obj\Debug\HRAdministrationAPI.pdb
